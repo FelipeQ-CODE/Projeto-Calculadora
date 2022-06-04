@@ -2,6 +2,5 @@
 
 
 <div align="center">
-<img src="![Calculadora](https://user-images.githubusercontent.com/103467527/171998748-e872e313-e02e-4274-97d6-ba76598718c0.png)
-" width="700px"/>
+<img src="https://user-images.githubusercontent.com/103467527/171999034-c3451184-34b3-4e47-99de-4acc9cf0fda0.png" width="700px"/>
 </div>
